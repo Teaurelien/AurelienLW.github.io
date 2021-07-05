@@ -5,3 +5,5 @@
 [Cloud content](/cloud/index.md)
 
 [Agility content](/agility/index.md)
+
+[Kubernetes content](/kubernetes/index.md)
